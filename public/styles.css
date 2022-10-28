@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: "Khand", sans-serif; */
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: #967e76;
+}
+
+.container {
+  max-width: 350px;
+  background: #c4a095;
+  margin: 50px auto 0;
+  text-align: center;
+}
+
+nav {
+  background: #ff8787;
+  width: 100%;
+  padding: 10px;
+  font-size: 2rem;
+}
+
+.year-box {
+  padding: 1rem 0 0;
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+
+.present-day {
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+
+.present-tarik {
+  font-size: 4rem;
+  padding-bottom: 0.5rem;
+}
+
+footer {
+  padding: 2rem 0 1rem;
+}
+
+footer > p {
+  font-family: "Island Moments", cursive;
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  height: 60px;
+  padding: 0 1rem;
+  line-height: 20px;
+}
+
+.footer-description {
+  padding-bottom: 20px;
+}
