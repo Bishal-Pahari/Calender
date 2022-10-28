@@ -1,3 +1,9 @@
+# Calender
+Your Daily Calender
+
+# Preview
+![mobile](https://user-images.githubusercontent.com/61013432/198648198-7475bc79-4cef-4c15-a25d-da5891b4c453.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Calender
+
